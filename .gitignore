@@ -1,3 +1,8 @@
+ahoracados.py
+binary_search.py
+criptografia.py
+decoradores.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
